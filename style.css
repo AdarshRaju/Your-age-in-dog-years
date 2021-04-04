@@ -1,5 +1,5 @@
 body {
-    background-color: #94C9A9;
+    background-color: #dfc19b;
     display: flex;
     font-family: 'Ranchers';
     justify-content: center;
@@ -7,7 +7,7 @@ body {
 
 .container {
     width: 250px;
-    background-color: #C6ECAE;
+    background-color: #eeecd6;
     border-radius: 20px;
     margin: 60px;
     display: flex;
@@ -17,7 +17,7 @@ body {
 }
 
 .button {
-    background-color: #FE5F55;
+    background-color: #ac9828;
     border-radius: 10px;
     align-self: center;
     font-family: cursive;

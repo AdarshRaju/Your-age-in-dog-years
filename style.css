@@ -22,8 +22,14 @@ body {
     align-self: center;
     font-family: cursive;
     font-size: 20px;
-    padding: aut
+    transition: all 0.25s;
 }
+
+.button:hover {
+    font-size: 21px;
+    background-color: #ac9838;
+}
+
 
 #input {
     margin-top: 20px;

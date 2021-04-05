@@ -23,11 +23,12 @@ body {
     font-family: cursive;
     font-size: 20px;
     transition: all 0.25s;
+    Padding: 0.5rem;
 }
 
 .button:hover {
     font-size: 21px;
-    background-color: #ac9838;
+    background-color: #ac9808;
 }
 
 
